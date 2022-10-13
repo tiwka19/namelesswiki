@@ -13,7 +13,7 @@
 
 const config = {
   title: 'Nameless AOSP',
-  url: 'https://nameless.wiki',
+  url: 'https://namelesswiki.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,18 +55,28 @@ const config = {
             label: 'FAQ',
             position: 'left',
           },
+          {
+            to: 'category/install',
+            label: 'Install',
+            position: 'left'
+          },
           // Please keep GitHub link to the right for consistency.
           {
             href: 'https://github.com/Nameless-AOSP',
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://forum.xda-developers.com/t/rom-official-oos-cam-oneplus-8t-9r-12-1-0_r11-nameless-aosp-2022-07-23.4403295/',
+            label: 'XDA',
+            position: 'right',
+          },
         ],
       },
       algolia: {
         appId: "IKCYX27QE4",
-        apiKey: "cb15da6f35451f5fed2b4857aedb7841",
-        indexName: "dev_undetectable-docs",
+        apiKey: "092118c8ec6d247b54e58abc339e5273",
+        indexName: "namelesswiki",
         contextualSearch: true,
       },
     }),
