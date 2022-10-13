@@ -53,7 +53,7 @@ const config = {
           {
             to: 'faq',
             label: 'FAQ',
-            position: 'left'
+            position: 'left',
           },
           {
             to: 'community',
@@ -74,7 +74,7 @@ const config = {
         ],
       },
       algolia: {
-        appId: "8PSKKPV3OQ",
+        appId: "IKCYX27QE4",
         apiKey: "cb15da6f35451f5fed2b4857aedb7841",
         indexName: "dev_undetectable-docs",
         contextualSearch: true,
