@@ -47,7 +47,7 @@ See [Screenshots](screenshots.md) for more details.
 
 ## Community
 
-We have an [active and friendly community](community.md) on Telegram that anyone is free to join, should you have issues or just want to chat with other users.
+We have an [active and friendly community](https://t.me/nameless_ophub) on Telegram that anyone is free to join, should you have issues or just want to chat with other users.
 
-There is also a comprehensive list of answers to [frequently asked questions](faq.md) that you may find useful. Feel free to take a look at the [FAQ](faq.md) or our other documentation pages if you're not sure whether NamelessAOSP is right for you.
+There is also a comprehensive list of answers to [frequently asked questions](faq/index.md) that you may find useful. Feel free to take a look at the [FAQ](faq/index.md) or our other documentation pages if you're not sure whether NamelessAOSP is right for you.
 

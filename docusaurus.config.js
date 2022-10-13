@@ -55,20 +55,10 @@ const config = {
             label: 'FAQ',
             position: 'left',
           },
-          {
-            to: 'community',
-            label: 'Community',
-            position: 'left'
-          },
           // Please keep GitHub link to the right for consistency.
           {
             href: 'https://github.com/Nameless-AOSP',
             label: 'GitHub',
-            position: 'left',
-          },
-          {
-            href: 'doc',
-            label: 'Install',
             position: 'right',
           },
         ],
