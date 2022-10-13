@@ -13,7 +13,6 @@
 
 const config = {
   title: 'Nameless AOSP',
-
   // tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -48,7 +47,7 @@ const config = {
       navbar: {
         title: 'NamelessAOSP',
         logo: {
-          alt: 'My Meta Project Logo',
+          alt: 'Nameless Logo',
           src: 'img/logo.svg',
         },
         items: [{
@@ -60,7 +59,6 @@ const config = {
             to: 'faq',
             label: 'FAQ',
             position: 'left'
-          },
           {
             to: 'community',
             label: 'Community',
@@ -80,7 +78,7 @@ const config = {
         ],
       },
       algolia: {
-        appId: "8PSKKPV3OQ",
+        appId: "IKCYX27QE4",
         apiKey: "cb15da6f35451f5fed2b4857aedb7841",
         indexName: "dev_undetectable-docs",
         contextualSearch: true,
