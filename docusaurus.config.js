@@ -13,19 +13,13 @@
 
 const config = {
   title: 'Nameless AOSP',
-
-  // tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://nameless.wiki',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'tiwka19',
+  projectName: 'namelesswiki',
   presets: [
     [
       'classic',
@@ -48,7 +42,7 @@ const config = {
       navbar: {
         title: 'NamelessAOSP',
         logo: {
-          alt: 'My Meta Project Logo',
+          alt: 'Nameless Logo',
           src: 'img/logo.svg',
         },
         items: [{
@@ -68,7 +62,7 @@ const config = {
           },
           // Please keep GitHub link to the right for consistency.
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Nameless-AOSP',
             label: 'GitHub',
             position: 'left',
           },
