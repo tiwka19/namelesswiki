@@ -11,7 +11,7 @@ import Screenshot from '../src/components/Screenshot';
 import Screenshots from '../src/components/Screenshots';
 
 
-# Welcome to Nameless Family ♥
+# Welcome to Nameless Family
 
 Nameless AOSP is based on Android Open Source Project, inspired by Google Pixel. We offer a smooth and stable experience for your device with a selected set of amazing features that provide an exceptional user experience.
 
