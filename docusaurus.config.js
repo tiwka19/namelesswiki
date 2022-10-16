@@ -13,7 +13,7 @@
 
 const config = {
   title: 'Nameless AOSP',
-  url: 'https://namelesswiki.vercel.app/',
+  url: 'https://nameless.wiki',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -41,10 +41,6 @@ const config = {
     ({
       navbar: {
         title: 'Nameless AOSP',
-        logo: {
-          alt: 'Nameless Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             to: 'screenshots',
