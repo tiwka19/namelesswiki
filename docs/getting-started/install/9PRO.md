@@ -11,8 +11,8 @@ title: For OnePlus 9 Pro
 :::danger
 OOS12 C.62-C.64 in BOTH SLOTS! DO NOT SKIP THIS!
 :::
-- Latest platform-tools
-- Google USB driver
+- Latest [platform-tools](https://developer.android.com/studio/releases/platform-tools)
+- [Google USB driver](https://dl.google.com/android/repository/latest_usb_driver_windows.zip)
 - Developer options enabled: Settings -> About phone -> Tap Build number at the bottom seven (7) times
 - ADB enabled: Settings -> System -> Developer options -> USB debugging
 - Required images: dtbo.img, vendor_boot.img, lineage-19.1-xxx-recovery-xxx.img (put these in the same folder with platform-tools)
@@ -21,7 +21,7 @@ OOS12 C.62-C.64 in BOTH SLOTS! DO NOT SKIP THIS!
 - Unlocked bootloader
   
   :::note
-  For unknown reason some devices cannot be unlocked in OOS12 so better to do it in OOS11
+  If you are currently on OOS11 it's better to unlock bootloader before updating to OOS12. For unknown reason some devices cannot be unlocked in OOS12.
   ::: 
 1. Reboot your phone to fastboot mode
 2. Open cmd and go to the folder where platform tools are **(DO NOT USE POWERSHELL!)**

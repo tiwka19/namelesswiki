@@ -26,8 +26,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: "/",
-          sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: '/',
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -45,10 +45,11 @@ const config = {
           alt: 'Nameless Logo',
           src: 'img/logo.svg',
         },
-        items: [{
+        items: [
+          {
             to: 'screenshots',
             label: 'Screenshots',
-            position: 'left'
+            position: 'left',
           },
           {
             to: 'faq',
@@ -58,7 +59,7 @@ const config = {
           {
             to: 'category/install',
             label: 'Install',
-            position: 'left'
+            position: 'left',
           },
           // Please keep GitHub link to the right for consistency.
           {
@@ -74,9 +75,9 @@ const config = {
         ],
       },
       algolia: {
-        appId: "IKCYX27QE4",
-        apiKey: "092118c8ec6d247b54e58abc339e5273",
-        indexName: "namelesswiki",
+        appId: 'IKCYX27QE4',
+        apiKey: '092118c8ec6d247b54e58abc339e5273',
+        indexName: 'namelesswiki',
         contextualSearch: true,
       },
     }),

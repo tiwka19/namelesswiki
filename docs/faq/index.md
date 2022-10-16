@@ -11,8 +11,8 @@ If you have a question, please read or search this page before asking. It saves 
 ## How to use MSM tool
 
 ### Prerequisites:
-- Qualcomm drivers
-- MSM tool downloaded for your device model. Make sure to download for correct region.
+- [Qualcomm drivers](https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP)
+- [MSM tool](https://onepluscommunityserver.com/list/Unbrick_Tools/) downloaded for your device model. Make sure to download for correct region.
 
 1. Run MsmDownloadTool Vx.x.exe as administrator
 2. On login window select Others in User type and click next
@@ -39,8 +39,8 @@ If MSM does not connect to your phone then it's probably a driver issue.
 
 ### Prerequisites:
 
-- Google USB drivers installed 
-- Latest platform-tools on your PC
+- [Google USB drivers](https://dl.google.com/android/repository/latest_usb_driver_windows.zip) installed 
+- Latest [platform-tools](https://developer.android.com/studio/releases/platform-tools) on your PC
 
 :::danger NOTE
 **ALL DATA WILL BE WIPED!**
