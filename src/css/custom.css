@@ -41,6 +41,8 @@
 }
 
 .navbar__title {
-  font-size: 20px !important;
+  color: var(--ifm-color-primary) !important;
+  font-size: 18px !important;
+  line-height: 1 !important;
 }
 
