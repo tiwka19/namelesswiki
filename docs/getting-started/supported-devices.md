@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Supported devices
 
-NamelessAOSP officially supports the following devices:
+Nameless AOSP officially supports the following devices:
 
-- OnePlus 8T/9R (lemonkebab)
+- OnePlus 8T/9R (kebab) (unified)
 - OnePlus 8 (instantnoodle)
 - OnePlus 8 Pro (instantnoodlep)
 - OnePlus 9 Pro (lemonadep)

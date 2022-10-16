@@ -11,7 +11,7 @@ import Screenshots from '../src/components/Screenshots';
 
 # Screenshots
 
-Here are some screenshots for a taste of NamelessAOSP without having to install it yourself.
+Here are some screenshots for a taste of Nameless AOSP without having to install it yourself.
 
 ## System
 

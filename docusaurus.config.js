@@ -40,7 +40,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'NamelessAOSP',
+        title: 'Nameless AOSP',
         logo: {
           alt: 'Nameless Logo',
           src: 'img/logo.svg',

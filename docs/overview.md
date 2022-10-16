@@ -33,7 +33,7 @@ It also keeps what you’re used to on stock:
 
 ## Screenshots
 
-Get a taste of NamelessAOSP without installing it:
+Get a taste of Nameless AOSP without installing it:
 
 <Screenshots>
   <Screenshot name="sys-ui-start" alt="Welcome" />
@@ -48,5 +48,5 @@ See [Screenshots](screenshots.md) for more details.
 
 We have an [active and friendly community](https://t.me/nameless_ophub) on Telegram that anyone is free to join, should you have issues or just want to chat with other users.
 
-There is also a comprehensive list of answers to [frequently asked questions](faq/index.md) that you may find useful. Feel free to take a look at the [FAQ](faq/index.md) or our other documentation pages if you're not sure whether NamelessAOSP is right for you.
+There is also a comprehensive list of answers to [frequently asked questions](faq/index.md) that you may find useful. Feel free to take a look at the [FAQ](faq/index.md) or our other documentation pages if you're not sure whether Nameless AOSP is right for you.
 
