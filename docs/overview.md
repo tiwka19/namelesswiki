@@ -17,11 +17,10 @@ Nameless AOSP is based on Android Open Source Project, inspired by Google Pixel.
 
 ## Featured
 
-NamelessAOSP offers many improvements on the stock Android experience:
+Nameless AOSP offers many improvements on the stock Android experience:
 
 - Better performance
 - Clean UI design
-- Improved memory management
 - Under-the-hood tweaks
 - Privacy and security
 - Customization
