@@ -8,66 +8,36 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 
 ## Android 13
 
-<Tabs>
-  <TabItem value="builds" label="Builds" default>
-    <ul>
-    <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official.zip/download">Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official.zip</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20221002-0741-Official.zip/download">Nameless-AOSP_instantnoodle-13.0-20221002-0741-Official.zip</a>
-      </li>
-    </ul>
+### Latest build
 
-  </TabItem>
-  <TabItem value="images" label="Images">
-     <ul>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/boot.img/download">boot.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/recovery.img/download">recovery.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta_system.img/download">vbmeta_system.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta.img/download">vbmeta.img</a>
-      </li>
-    </ul>
-  </TabItem>
-</Tabs>
+- [Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official.zip)
+- [Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official **(GDrive)**](https://drive.google.com/drive/folders/1vkArQomPdbRGsjv46aH2SEhs19Yl08Py?usp=sharing)
+- [Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official **(Torrent)**](https://dl.nameless.wiki/Torrents/Nameless-AOSP_instantnoodle-13.0-20221023-0733-Official.zip.torrent)
 
-## Android 12
+### Images
 
-<Tabs>
-  <TabItem value="builds" label="Builds" default>
-    <ul>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220824-0742-Official.zip/download">Nameless-AOSP_instantnoodle-12.1-20220824-0742-Official.zip</a>
-      </li>
-       <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220817-1431-Official.zip/download">Nameless-AOSP_instantnoodle-12.1-20220817-1431-Official.zip</a>
-      </li>
-       <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220723-1437-Official.zip/download">Nameless-AOSP_instantnoodle-12.1-20220723-1437-Official.zip</a>
-      </li>
-    </ul>
-  </TabItem>
-  <TabItem value="images" label="Images">
-     <ul>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/boot.img/download">boot.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/recovery.img/download">recovery.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/vbmeta_system.img/download">vbmeta_system.img</a>
-      </li>
-      <li>
-        <a href="https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/vbmeta.img/download">vbmeta.img</a>
-      </li>
-    </ul>
-  </TabItem>
-</Tabs>
+- [boot.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/boot.img)
+- [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta.img)
+- [vbmeta_system.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta_system.img)
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/recovery.img)
+
+#### Previous builds
+
+- [Nameless-AOSP_instantnoodle-13.0-20221002-0741-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20221002-0741-Official.zip)
+
+<details><summary>Android 12.1</summary>
+
+### Builds
+
+- [Nameless-AOSP_instantnoodle-12.1-20220824-0742-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220824-0742-Official.zip)
+- [Nameless-AOSP_instantnoodle-12.1-20220817-1431-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220817-1431-Official.zip)
+- [Nameless-AOSP_instantnoodle-12.1-20220723-1437-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-12.1-20220723-1437-Official.zip)
+
+### Images
+
+- [boot.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/boot.img)boot.img
+- [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/vbmeta.img)
+- [vbmeta_system.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/vbmeta_system.img)
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_12.1/recovery.img)
+
+</details>

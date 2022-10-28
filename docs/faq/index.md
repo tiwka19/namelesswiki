@@ -8,9 +8,21 @@ If you have a question, please read or search this page before asking. It saves 
 
 **[You can also search for the answer to your question.](/search)**
 
-## How to use MSM tool
+## Links
+<details><summary>Links</summary>
 
-### Prerequisites:
+- [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+- [Google USB drivers](https://dl.google.com/android/repository/latest_usb_driver_windows.zip)
+- [Qualcomm drivers](https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP)
+- [APK to enable local update option in OOS12](https://oxygenos.oneplus.net/OPLocalUpdate_For_Android12.apk)
+- [MSM tool](https://onepluscommunityserver.com/list/Unbrick_Tools/)
+
+</details>
+
+## How to use MSM tool
+<details><summary>How to use MSM tool</summary>
+
+**Prerequisites:**
 - [Qualcomm drivers](https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP)
 - [MSM tool](https://onepluscommunityserver.com/list/Unbrick_Tools/) downloaded for your device model. Make sure to download for correct region.
 
@@ -22,22 +34,32 @@ If you have a question, please read or search this page before asking. It saves 
 6. Process will start
 
 If MSM does not connect to your phone then it's probably a driver issue.
+</details>
 
 ## How to enter edl mode
+<details><summary>How to enter edl mode</summary>
 
-### Method 1: Physical buttons
+#### Method 1: Physical buttons
 1. Turn off your phone
 2. Push volume up and volume down together
 3. Connect the USB cable to your phone
 4. Phone should boot to edl mode and screen stays black.
-### Method 2: using adb
+
+#### Method 2: using adb
 1. Phone needs to be in recovery or in OS
-2. From cmd issue command
-3. adb reboot edl
+2. From cmd issue command:
+
+    ```js
+    adb reboot edl 
+    ```
+  
+</details>
 
 ## Unlocking bootloader
+<details><summary>Unlocking bootloader</summary>
 
-### Prerequisites:
+
+**Prerequisites:**
 
 - [Google USB drivers](https://dl.google.com/android/repository/latest_usb_driver_windows.zip) installed 
 - Latest [platform-tools](https://developer.android.com/studio/releases/platform-tools) on your PC
@@ -74,7 +96,10 @@ If MSM does not connect to your phone then it's probably a driver issue.
   ```
 12. Use volume keys to select 'unlock the bootloader' and confirm with power button
 
+</details>
+
 ## A13 flashing instructions when coming from OOS12 based custom ROM
+<details><summary>A13 flashing instructions when coming from OOS12 based custom ROM</summary>
 
 1. Reboot to fastboot
 2. Flash recovery
@@ -82,32 +107,44 @@ If MSM does not connect to your phone then it's probably a driver issue.
 4. Sideload ROM
 5. Format data
 
-## Both slots? what? how?
+</details>
 
-### About slots
+## Both slots? what? how?
+<details><summary>Both slots? what? how?</summary>
+
+#### About slots
 Your phone has two slots. Both of them has full OS and firmware. Custom ROMs are based on certain version of official OnePlus firmware so both slots needs to have the same firmware. If they differ, then you are most likely to have problems after updating your custom ROM through OTA.
 
-### Flashing both slots
+#### Flashing both slots
 You do this by downloading the correct OOS full zip from the "#oos-repo" note in telegram group. Then use the local update feature in system update to flash the zip. After you reboot, use the local update feature to flash the same full zip again. By flashing it twice, you will guarantee that you have the latest firmware on both slots. It is very important that you DO NOT skip this step in the flashing instructions.
 
 :::note 
 In OOS12 the local update options is disabled by default. You can enable it from developer settings or by using local update apk found in links section
 :::
 
+</details>
+
 ## fastboot: unknown option -- disable-verity
+<details><summary>fastboot: unknown option -- disable-verity</summary>
 
 - Use cmd, NOT powershell
 - Make sure platform-tools is the latest version
 - Make sure that the files you are going to flash are in the same folder with platform-tools
 - Make sure you opened cmd in the folder where platform-tools are
 
+</details>
+
 ## adb error cannot read 'filename.zip'
+<details><summary>adb error cannot read 'filename.zip'</summary>
 
 - Make sure platform-tools is the latest version. If not, download from links. (Do not use Minimal ADB and Fastboot.)
 - Make sure the files you are sideloading are in the same folder where platform-tools are
 - Use cmd instead of powershell
 
+</details>
+
 ## I did not read instructions and updated from ota, what now?
+<details><summary>I did not read instructions and updated from ota, what now?</summary>
 
 The latest update for all currently supported devices is based on OOS12 firmware whereas previous builds were based on OOS11 firmware so updating through OTA will cause bootloop. The broken slot is beyond saving. If there is important data you need to save, follow these instructions.
 
@@ -130,3 +167,4 @@ The latest update for all currently supported devices is based on OOS12 firmware
 6. Save your precious data
 7. Clean flash using correct procedure
 
+</details>
