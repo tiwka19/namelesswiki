@@ -10,7 +10,7 @@ title: For OnePlus 9/9 Pro
   :::danger
   OOS12 C.62-C.65 in BOTH SLOTS! DO NOT SKIP THIS!
   :::
-- Latest [platform-tools](https://developer.android.com/studio/releases/platform-tools)
+- Latest [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 - [Google USB driver](https://dl.google.com/android/repository/latest_usb_driver_windows.zip)
 - Developer options enabled: Settings -> About phone -> Tap Build number at the bottom seven (7) times
 - ADB enabled: Settings -> System -> Developer options -> USB debugging
