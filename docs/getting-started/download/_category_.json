@@ -1,3 +1,7 @@
 {
-  "label": "Download"
-}
+    "label": "Download",
+    "position": 3,
+    "link": {
+      "type": "generated-index"
+    }
+  }
