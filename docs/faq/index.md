@@ -143,6 +143,25 @@ In OOS12 the local update options is disabled by default. You can enable it from
 
 </details>
 
+## How to root?
+<details><summary>How to root?</summary>
+
+:::note
+- Make sure the magisk file is in the same folder with platform-tools<br />
+- You don't need to change the file extension from apk to zip
+:::
+
+- Download [Magisk 25.2](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk)
+- Reboot to recovery
+- Select Install update -> ADB Sideload
+- Use command:
+  ```
+  adb sideload Magisk-v25.2.apk
+  ```
+- Reboot
+
+</details>
+
 ## I did not read instructions and updated from ota, what now?
 <details><summary>I did not read instructions and updated from ota, what now?</summary>
 
