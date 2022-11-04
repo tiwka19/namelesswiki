@@ -20,9 +20,12 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'tiwka19',
   projectName: 'namelesswiki',
-plugins: [
-    'docusaurus-plugin-matomo',
+scripts: [
+    {
+      src: 'matomo-tracking-code.js',
+     },
   ],
+plugins: [],
   presets: [
     [
       'classic',
@@ -73,14 +76,6 @@ plugins: [
           },
         ],
       },
-    matomo: {
-              matomoUrl: 'https://datafix.fi/analytics',
-              siteId: '19',
-              siteUrl: 'https://nameless.wiki',
-              disableCookies: 'true',
-              phpLoader: 'matomo.php',
-              jsLoader: 'matomo.js',
-            },
         algolia: {
         appId: 'IKCYX27QE4',
         apiKey: '092118c8ec6d247b54e58abc339e5273',
