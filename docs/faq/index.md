@@ -160,6 +160,31 @@ In OOS12 the local update options is disabled by default. You can enable it from
   ```
 - Reboot
 
+#### Maintain root after OTA update
+
+- After OTA update, before reboot, go to Magisk, select Install, select Install to inactive Slot (After OTA)
+
+</details>
+
+## Button combinations
+<details><summary>Button combinations</summary>
+
+### Recovery mode
+
+- **Volume Down** + **Power**
+
+### Fastboot mode
+
+- **Volume Down** + **Volume Up** + **Power**
+
+### EDL mode
+
+- Power off the phone, press **Volume Down** + **Volume Up** while connecting the USB cable.
+
+### Safe mode
+
+- Turn off your phone, turn it back on and keep **Volume Down** pressed while phone is booting.
+
 </details>
 
 ## I did not read instructions and updated from ota, what now?
