@@ -14,7 +14,7 @@ title: For OnePlus 9/9 Pro
 - [Google USB driver](https://dl.google.com/android/repository/latest_usb_driver_windows.zip)
 - Developer options enabled: Settings -> About phone -> Tap Build number at the bottom seven (7) times
 - ADB enabled: Settings -> System -> Developer options -> USB debugging
-- Required images: dtbo.img, vendor_boot.img, lineage-19.1-xxx-recovery-xxx.img (put these in the same folder with platform-tools)
+- Required images: dtbo.img, vendor_boot.img, boot.img (put these in the same folder with platform-tools)
 - Get images from downloads page
 - ROM zip (put it in the same folder with platform-tools)
 - Unlocked bootloader
@@ -34,7 +34,7 @@ title: For OnePlus 9/9 Pro
 
 4. Temporarily flash recovery:
   ```js
-  fastboot flash boot recovery.img
+  fastboot flash boot boot.img
   ```
 5. Reboot your phone to recovery mode, click "Install update" -> "ADB Sideload"
 6. In cmd enter command: 
