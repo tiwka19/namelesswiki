@@ -11,6 +11,7 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 ### Latest build
 
 - [Nameless-AOSP_kebab-13.0-20230114-1344-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-13.0-20230114-1344-Official.zip)
+- [Nameless-AOSP_kebab-13.0-20230114-1344-Official **(GDrive)**](https://drive.google.com/drive/folders/1QEa9nUWFS7Al4H-xP_Q9RQXXyNdBOuWQ?usp=sharing)
 
 ### Images
 

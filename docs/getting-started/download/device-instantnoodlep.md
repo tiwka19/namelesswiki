@@ -11,6 +11,7 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 ### Latest build
 
 - [Nameless-AOSP_instantnoodlep-13.0-20230114-1228-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-13.0-20230114-1228-Official.zip)
+- [Nameless-AOSP_instantnoodlep-13.0-20230114-1228-Official (**GDrive**)](https://drive.google.com/drive/folders/1j0EdpCGYrrKRmi6fueQXoBpYrAa6vjsH?usp=sharing)
 
 ### Images 
 

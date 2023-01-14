@@ -10,7 +10,8 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 
 ### Latest build
 
-- [Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official.zip/download)
+- [Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official.zip)
+- [Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official **(GDrive)**](https://drive.google.com/drive/folders/1vkArQomPdbRGsjv46aH2SEhs19Yl08Py?usp=sharing)
 
 ### Images 
 
