@@ -6,7 +6,22 @@ title: OnePlus 8
 
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem';
 
-## Android 13
+## Android 13 (**OOS13 based**)
+
+### Latest build
+
+- [Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official **(SourceForge)**](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20230114-0929-Official.zip/download)
+
+### Images 
+
+- [boot.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/boot.img)
+- [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta.img)
+- [vbmeta_system.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta_system.img)
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/recovery.img)
+
+<hr/>
+
+## Android 13 (**OOS12 based**)
 
 ### Latest build
 

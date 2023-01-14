@@ -6,10 +6,20 @@ title: For OnePlus 9/9 Pro
 
 ## Prerequisites
 
+:::note
+Dirty flashing from OOS12 based version is fine. The required firmware is included in the ROM.
+:::
+
+:::danger
+When coming from OOS to Nameless-AOSP OOS13 based ROM you need to have OOS13 installed.
+:::
+
+:::danger
+  For OOS12 based build the required firmware is C.62-C.65 **IN BOTH SLOTS!** DO NOT SKIP THIS!
+:::
+
 - Working brains, common sense, lots of coffee
-  :::danger
-  OOS12 C.62-C.65 in BOTH SLOTS! DO NOT SKIP THIS!
-  :::
+  
 - Latest [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 - [Google USB driver](https://dl.google.com/android/repository/latest_usb_driver_windows.zip)
 - Developer options enabled: Settings -> About phone -> Tap Build number at the bottom seven (7) times
